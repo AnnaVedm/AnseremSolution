@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "async-request": "^1.2.0",
+    "axios": "^1.9.0",
+    "crypto": "^1.0.1",
+    "express": "^4.21.2",
+    "follow-redirects": "^1.15.6",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
